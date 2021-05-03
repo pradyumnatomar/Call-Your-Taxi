@@ -3,4 +3,4 @@ A fully features taxi booking application that let's you select the location fro
 
 # Includes firebase authentication. storage
 # Includes Google Maps to select you location
-# Locaion search feature
+# Location search feature
