@@ -13,7 +13,7 @@ import Geocoder from 'react-native-geocoding';
 import {GooglePlacesAutocomplete} from 'react-native-google-places-autocomplete';
 import {check, PERMISSIONS, RESULTS, request} from 'react-native-permissions';
 
-const GOOGLE_API_KEY = 'AIzaSyBreh0sI9BcJ_36QdIcezkh3tc2DSkynYM';
+const GOOGLE_API_KEY = '...........................';
 const {height, width} = Dimensions.get('window');
 
 const Map = ({navigation, ...props}) => {
